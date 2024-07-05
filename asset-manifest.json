@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.492bd421.css",
+    "main.js": "/static/js/main.00397fb2.js",
+    "static/media/Capture4.PNG": "/static/media/Capture4.2c4d3d6c3a0c70a2af2e.PNG",
+    "static/media/Capture.PNG": "/static/media/Capture.52e80d1d8aa280bcbdc7.PNG",
+    "static/media/Capture3.PNG": "/static/media/Capture3.258a7b87dcd1b73124d8.PNG",
+    "static/media/Capture2.PNG": "/static/media/Capture2.03966e160149ce91f963.PNG",
+    "static/media/FatmaResume.pdf": "/static/media/FatmaResume.0f1b7ac87e0b6cb61f8d.pdf",
+    "static/media/photo1719821774 (2).jpeg": "/static/media/photo1719821774 (2).875102feb27169d73448.jpeg",
+    "static/media/fatmalogo.svg": "/static/media/fatmalogo.db37f40a416a391ab099b5ed7f64eb81.svg",
+    "static/media/undraw_online_resume_re_ru7s.svg": "/static/media/undraw_online_resume_re_ru7s.491e150f35ea5ac838bfb53a70cac6fe.svg",
+    "static/media/undraw_undraw_undraw_undraw_undraw_website_o7n3_bucy_30uo_-1-_d6br_m6dn.svg": "/static/media/undraw_undraw_undraw_undraw_undraw_website_o7n3_bucy_30uo_-1-_d6br_m6dn.456771f2c30bf8ad293f10020abe2ce8.svg",
+    "static/media/icon-app-design.svg": "/static/media/icon-app-design.5e725e93415322b9531329a3547b3369.svg",
+    "static/media/icon-front (1).svg": "/static/media/icon-front (1).b6dca43efb9919327641b7f9c7756dcb.svg",
+    "index.html": "/index.html",
+    "main.492bd421.css.map": "/static/css/main.492bd421.css.map",
+    "main.00397fb2.js.map": "/static/js/main.00397fb2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.492bd421.css",
+    "static/js/main.00397fb2.js"
+  ]
+}
